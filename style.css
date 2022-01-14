@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 1.5rem;
+  background-color: rgb(105, 107, 103);
+  color: blanchedalmond;
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+}
+header {
+}

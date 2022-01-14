@@ -27,3 +27,22 @@ main {
   grid-column: 2 / 3;
   grid-row: 2;
 }
+#section-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+#icon-div {
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+#publish-date {
+  opacity: 0.6;
+}
+a {
+  color: blanchedalmond;
+}
+a:hover {
+  color: darkslategray;
+}

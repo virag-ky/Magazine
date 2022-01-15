@@ -112,3 +112,11 @@ aside {
   font-size: 1.3rem;
   text-align: justify;
 }
+blockquote p::before {
+  content: '" ';
+}
+blockquote p::after {
+  content: ' "';
+}
+@media only screen and (max-width: 800px) {
+}

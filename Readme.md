@@ -1,6 +1,18 @@
-A simple magazine project inspired by freeCodeCamp.
+# Magazine-FreeCodeCamp
 
-Made with HTML and CSS.
+> A simple magazine project inspired by freeCodeCamp.
+
+## Built with
+* HTML
+* CSS
+
+## Screenshot
+![magazine](https://user-images.githubusercontent.com/79658534/153755162-fc22360e-af61-4e31-bff8-b3090280b50b.png)
+
+## Links
+* Live Site URL: [https://virag-ky.github.io/Magazine/](https://virag-ky.github.io/Magazine/)
+
+## Images
 
 Photo by <a href="https://unsplash.com/@thoughtcatalog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thought Catalog</a> on <a href="https://unsplash.com/s/photos/read?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
